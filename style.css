@@ -1,0 +1,31 @@
+body
+{
+  background-color:grey;
+}
+.main
+{
+  font-size:70px;
+  margin-top:150px;
+  margin-left:600px;
+}
+form {
+  align-items: left;
+}
+input {
+  background-color:white;
+  font: 15px;
+  width: 100%;
+  padding: 5px 5px;
+  border-radius:12px;
+  margin-left:300px;
+  margin-right:300px;
+}
+button
+{
+  border-color:silver;
+  border-radius:12px;
+  font-size:20px;
+  color:silver;
+  margin-left:700px;
+    magrin-right:700px;
+}
